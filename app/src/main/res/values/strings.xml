@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">无障碍语音</string>
+    <string name="app_accessibility_description">开启无障碍模式</string>
+</resources>
